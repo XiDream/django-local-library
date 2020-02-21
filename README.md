@@ -1,4 +1,4 @@
-# django-local-library
+# Django Local Library Notes
 
 ## Conda Environment Basics
 
